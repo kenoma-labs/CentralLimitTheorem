@@ -1,7 +1,7 @@
 /-
 Copyright (c) 2026 Kenoma Labs LLC. All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
-Authors: Kenoma Labs
+Authors: Brandon Bell
 -/
 import Mathlib.MeasureTheory.Measure.CharacteristicFunction
 import Mathlib.MeasureTheory.Function.LpSeminorm.Defs
