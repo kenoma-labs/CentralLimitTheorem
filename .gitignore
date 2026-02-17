@@ -1,0 +1,10 @@
+/.lake
+/lake-timing.jsonl
+/scratch/
+/claude-mathematics-kit/
+.claude/settings.local.json
+.claude/settings.json.bak
+*.olean
+*.ilean
+*.trace
+*.bak
